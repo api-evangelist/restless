@@ -1,0 +1,21 @@
+{
+  "repo": "restless",
+  "feeds": [
+    {
+      "source": "https://restless.co.uk/press/",
+      "feed_url": "https://restless.co.uk/press/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://restless.co.uk/feed/",
+      "feed_url": "https://restless.co.uk/feed/",
+      "title": "",
+      "saved": 10,
+      "method": "feed"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-10-10T13:15:00Z"
+}
